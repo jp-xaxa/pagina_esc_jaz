@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto _Landing Page_ foi realizado como parte de estudo proposto pela Onebitcode sugerido pelo instrutor <a href="https://github.com/isaacpontes" alt="Link para o GitHub do instrutor Isaac Pontes" target="_blank">Isaac Pontes</a>.
 
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/pagina_esc_jaz/)
+
 <h1 align="center">
   Funcionalidades
 </h1>
